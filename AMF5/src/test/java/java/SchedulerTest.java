@@ -1,4 +1,5 @@
-import amf.apicontract.client.platform.AMFConfiguration;
+package java;
+
 import amf.apicontract.client.platform.RAMLConfiguration;
 import amf.core.client.platform.AMFGraphClient;
 import amf.core.client.platform.AMFGraphConfiguration;
